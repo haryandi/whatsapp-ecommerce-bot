@@ -7,10 +7,10 @@ const development = {
     ...process.env,
     NODE_ENV: process.env.NODE_ENV || 'development',
     PORT: '9000',
-    Meta_WA_accessToken:'EAAKGUD3eZA28BADAJOmO6L19TmZAIEUpdFGHEGHX5sQ3kk4LDQLlnyh607rKSr0x2SAOPJS0kXOUZAhRDIPPGs4vcXQCo2DnfSJMnnIzFW7vaw8EuL7A0HjGZBwE8VwjRnBNam0ARLmfyOCEh1',
-    Meta_WA_SenderPhoneNumberId: '113362588047543',
-    Meta_WA_wabaId: '102432872486730',
-    Meta_WA_VerifyToken: 'YouCanSetYourOwnToken',
+    Meta_WA_accessToken:'EAAKLS7yfg6gBAE8xMAbOCYpFXjTHMgFPWFbskANDWMOaldbPXYH33bkGFnDghCPkoduC5Y2KkkQfvTtgFtpwxk1lXB3XocMOSGy75dHwnRKiLuiJMdXR5C7ZCZBBPCJ4QUXknyy67YcJd5ZArfzeKBETHOV2GzgcZBwxk285v02DvW5axCE4apOECBveiAbboVSKXojJoQZDZD',
+    Meta_WA_SenderPhoneNumberId: '104999835874636',
+    Meta_WA_wabaId: '100620789635477',
+    Meta_WA_VerifyToken: 'andi',
 };
 
 const fallback = {
