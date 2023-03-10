@@ -6,11 +6,11 @@ const production = {
 const development = {
     ...process.env,
     NODE_ENV: process.env.NODE_ENV || 'development',
-    // PORT: '',
-    // Meta_WA_VerifyToken: '',
-    // Meta_WA_accessToken: '',
-    // Meta_WA_SenderPhoneNumberId: '',
-    // Meta_WA_wabaId: '',
+    PORT: '9000',
+    Meta_WA_accessToken:'EAAKGUD3eZA28BADAJOmO6L19TmZAIEUpdFGHEGHX5sQ3kk4LDQLlnyh607rKSr0x2SAOPJS0kXOUZAhRDIPPGs4vcXQCo2DnfSJMnnIzFW7vaw8EuL7A0HjGZBwE8VwjRnBNam0ARLmfyOCEh1',
+    Meta_WA_SenderPhoneNumberId: '113362588047543',
+    Meta_WA_wabaId: '102432872486730',
+    Meta_WA_VerifyToken: 'YouCanSetYourOwnToken',
 };
 
 const fallback = {
